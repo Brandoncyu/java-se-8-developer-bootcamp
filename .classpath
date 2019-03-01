@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="eclipse-workspace/HelloWorld/src"/>
+	<classpathentry kind="src" path="section-2-getting-started-with-java"/>
+	<classpathentry kind="output" path="eclipse-workspace/HelloWorld/bin"/>
+</classpath>
