@@ -2,6 +2,8 @@
 public class Car {
 	String color = "Green";
 	String type;
+	int serialNumber;
+	static int carCount;
 	
 	{
 		color = "Red";
