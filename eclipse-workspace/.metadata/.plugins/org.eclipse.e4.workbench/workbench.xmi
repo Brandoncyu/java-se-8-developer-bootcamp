@@ -103,7 +103,7 @@
                 </children>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_VSCnMjxZEemeZOsNfiVTFQ" containerData="7500" selectedElement="_VSCnPTxZEemeZOsNfiVTFQ">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_VSCnMjxZEemeZOsNfiVTFQ" containerData="7500" selectedElement="_VSCnMzxZEemeZOsNfiVTFQ">
               <children xsi:type="basic:PartSashContainer" xmi:id="_VSCnMzxZEemeZOsNfiVTFQ" containerData="7500" selectedElement="_VSCnNDxZEemeZOsNfiVTFQ" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_VSCnNDxZEemeZOsNfiVTFQ" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_VSFDgjxZEemeZOsNfiVTFQ"/>
                 <children xsi:type="basic:PartSashContainer" xmi:id="_VSCnNTxZEemeZOsNfiVTFQ" containerData="2500" selectedElement="_VSCnODxZEemeZOsNfiVTFQ">
@@ -214,7 +214,6 @@
       <children xsi:type="basic:PartStack" xmi:id="_VSFDgzxZEemeZOsNfiVTFQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_a5yfUERbEemeEZah2j626A">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
-        <tags>noFocus</tags>
         <tags>active</tags>
         <children xsi:type="basic:Part" xmi:id="_QQFVsERbEemeEZah2j626A" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Order.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Order.java&quot; partName=&quot;Order.java&quot; title=&quot;Order.java&quot; tooltip=&quot;AcmeOrderSystem/src/com/acme/domain/Order.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/AcmeOrderSystem/src/com/acme/domain/Order.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;191&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
@@ -415,7 +414,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_VSGRkjxZEemeZOsNfiVTFQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_XgLxIERZEemeEZah2j626A" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_VSUUGzxZEemeZOsNfiVTFQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_m81uQEXLEemdUphZqTY5Ow" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_VSUUGzxZEemeZOsNfiVTFQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_VSGRnzxZEemeZOsNfiVTFQ" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -450,7 +449,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_VSGR7zxZEemeZOsNfiVTFQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_XgTF4ERZEemeEZah2j626A" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_VSTtbTxZEemeZOsNfiVTFQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_m89qEEXLEemdUphZqTY5Ow" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_VSTtbTxZEemeZOsNfiVTFQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_VSGR-jxZEemeZOsNfiVTFQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -897,7 +896,7 @@
       <tags>platform:cocoa</tags>
       <parameters xmi:id="_VSIHFTxZEemeZOsNfiVTFQ" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.ui.console.ConsoleView"/>
     </bindings>
-    <bindings xmi:id="_WX5TYURZEemeEZah2j626A" keySequence="COMMAND+CTRL+F" command="_VSbpTjxZEemeZOsNfiVTFQ"/>
+    <bindings xmi:id="_l_6L8UXLEemdUphZqTY5Ow" keySequence="COMMAND+CTRL+F" command="_VSbpTjxZEemeZOsNfiVTFQ"/>
   </bindingTables>
   <bindingTables xmi:id="_VSIHFzxZEemeZOsNfiVTFQ" elementId="org.eclipse.debug.ui.debugging" bindingContext="_VSIuQzxZEemeZOsNfiVTFQ">
     <bindings xmi:id="_VSIHGDxZEemeZOsNfiVTFQ" keySequence="COMMAND+F2" command="_VSTttzxZEemeZOsNfiVTFQ"/>
@@ -1073,7 +1072,7 @@
     <bindings xmi:id="_VSIt_TxZEemeZOsNfiVTFQ" keySequence="ALT+CR" command="_VSSfEDxZEemeZOsNfiVTFQ"/>
   </bindingTables>
   <bindingTables xmi:id="_VSIt_jxZEemeZOsNfiVTFQ" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_VSIuSjxZEemeZOsNfiVTFQ">
-    <bindings xmi:id="_WX56cERZEemeEZah2j626A" keySequence="M1+W" command="_VSbpUDxZEemeZOsNfiVTFQ"/>
+    <bindings xmi:id="_l_7aEEXLEemdUphZqTY5Ow" keySequence="M1+W" command="_VSbpUDxZEemeZOsNfiVTFQ"/>
   </bindingTables>
   <bindingTables xmi:id="_VSIuADxZEemeZOsNfiVTFQ" bindingContext="_VSIuUDxZEemeZOsNfiVTFQ"/>
   <bindingTables xmi:id="_VSIuATxZEemeZOsNfiVTFQ" bindingContext="_VSIuUTxZEemeZOsNfiVTFQ"/>
